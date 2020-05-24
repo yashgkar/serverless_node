@@ -1,0 +1,11 @@
+{
+  "lambda": {
+    "role": "serverless-executor",
+    "name": "serverless",
+    "region": "eu-central-1"
+  },
+  "api": {
+    "id": "tple8gkrke",
+    "module": "api"
+  }
+}
